@@ -20,7 +20,7 @@ FinConsult is a user-friendly financial news research tool designed for effortle
 2.Navigate to the project directory:
 
 ```bash
-  cd 2_news_research_tool_project
+  cd FinConsult
 ```
 3. Install the required dependencies using pip:
 
