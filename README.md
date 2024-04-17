@@ -1,9 +1,9 @@
 
-# Stock Teller: News Research Tool 
+# FinConsult: Financial Article Consultant
 
-Stock Teller is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+FinConsult is a user-friendly financial news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
-![](stockteller.jpg)
+
 
 ## Features
 
